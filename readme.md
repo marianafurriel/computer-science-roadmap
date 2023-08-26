@@ -8,17 +8,21 @@ Aqui vou registrar meu progresso, resumos e códigos que surgirem nos meus estud
 
 ### Estruturas de dados
 
-- [ ] Estruturas de dados
-  - [ ] Arrays
-  - [ ] Listas encadeadas
-    - [ ] Listas simplesmente encadeadas
-    - [ ] Listas duplamente encadeadas
-  - [ ] Pilha
-  - [ ] Fila
-  - [ ] Hash table
-  - [ ] Árvores
-    - [ ] Árvore binária
-    - [ ] Árvore binária de busca
-    - [ ] Árvore binária completa
-    - [ ] Árvore balanceada
-    - [ ] Árvore não balanceada
+<details>
+<summary>
+Estruturas de dados
+</summary>
+- [x] Vetores
+- [ ] Listas encadeadas
+  - [ ] Listas simplesmente encadeadas
+  - [ ] Listas duplamente encadeadas
+- [ ] Pilha
+- [ ] Fila
+- [ ] Hash table
+- [ ] Árvores
+  - [ ] Árvore binária
+  - [ ] Árvore binária de busca
+  - [ ] Árvore binária completa
+  - [ ] Árvore balanceada
+  - [ ] Árvore não balanceada
+</details>
