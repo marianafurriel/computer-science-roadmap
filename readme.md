@@ -12,17 +12,13 @@ Aqui vou registrar meu progresso, resumos e códigos que surgirem nos meus estud
 <summary>Estruturas de dados</summary>
 
 ### Checklist
-  - [x] Vetores
-  - [ ] Listas encadeadas
-    - [ ] Listas simplesmente encadeadas
-    - [ ] Listas duplamente encadeadas
-  - [ ] Pilha
-  - [ ] Fila
-  - [ ] Hash table
-  - [ ] Árvores
-    - [ ] Árvore binária
-    - [ ] Árvore binária de busca
-    - [ ] Árvore binária completa
-    - [ ] Árvore balanceada
-    - [ ] Árvore não balanceada
+
+- [x] [Vetores](./Data%20Structures/implementacoes/)
+- [ ] Listas encadeadas
+  - [ ] Listas simplesmente encadeadas
+  - [ ] Listas duplamente encadeadas
+- [ ] Pilha
+- [ ] Fila
+- [ ] Hash table
+- [ ] Árvores - [ ] Árvore binária - [ ] Árvore binária de busca - [ ] Árvore binária completa - [ ] Árvore balanceada - [ ] Árvore não balanceada
 </details>
