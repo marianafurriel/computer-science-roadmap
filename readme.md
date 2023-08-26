@@ -10,6 +10,7 @@ Aqui vou registrar meu progresso, resumos e códigos que surgirem nos meus estud
 
 <details>
 <summary>Estruturas de dados</summary>
+
 ### Checklist
   - [x] Vetores
   - [ ] Listas encadeadas
